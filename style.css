@@ -1,0 +1,20 @@
+h1{
+	font-size: 70px;
+	margin-top: 130px;
+	text-align: center;	
+}
+
+.avatares{
+	text-align: center;
+	margin-top: 136px;
+}
+
+.avatares li{
+	display: inline-block;
+}
+
+img {
+  border-radius: 50%;
+  height: 150px;
+  padding: 10px;
+}
